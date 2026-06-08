@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwmd01
-- 👀 I’m interested in ...
-- 🌲 I'm just now student
+- 👀 I’m interested in cybersecurity world
+- 🌲 <3
 
 <!---
 mwmd01/mwmd01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
