@@ -1,41 +1,46 @@
 <div align="center">
   
-  <!-- تایپ‌رایتر افکت دار -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=9C27B0&background=0D0D1A&center=true&vCenter=true&width=600&lines=MWMD+%7C+RED+TEAM+OPERATOR;DEVELOPER+%26+ADVERSARY;PYTHON+%26+C+BUILDER;WELCOME+TO+MY+GALAXY+🚀" alt="Typing SVG" />
+  <!-- ========== SUPER CYBER TYPING SVG ========== -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1800&pause=200&color=9C27B0&background=0D0D1A&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%5B+RED+TEAM+%2F%2F+MWMD+%5D;%3E_+OFFENSIVE+SECURITY+ENGINEER+%3C;%3E_+PYTHON+%26+C+DEVELOPER+%3C;%3E_+SOC+TIER+1+%7C+RED+TEAM+OPERATOR+%3C;%3E_+ALWAYS+READY+FOR+CHALLENGES+%3C;%5B+GALAXY+CYBER+OPERATOR+%5D;%3E_+BUILD+%26+BREAK+%3C;%5B++ZERO+COOL++MODE++%5D" alt="Cyber Typing SVG" />
   
-  <!-- نئون گلیچ افکت متنی -->
+  <!-- ========== اضافی برای اینکه خفن‌تر بشه ========== -->
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=2000&pause=300&color=00FFFF&background=0D0D1A&center=true&vCenter=true&width=600&height=40&lines=%23+PYTHON+%23+C+%23+RED+TEAM+%23+OFFSEC;%23+BINARY+EXPLOITATION+%23+ADVERSARY;%23+NEVER+STOP+%23+NEVER+SURRENDER" alt="Sub Typing" />
+  
+  <!-- هدر نئونی گلیچ دار -->
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=%5B+RED+TEAM+%2F%2F+MWMD+%5D;%3E_+CYBER+OPERATOR+%3C;OFFENSIVE+SECURITY" alt="Neon Glitch" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=100&pause=50&color=FF00FF&background=0D0D1A&center=true&vCenter=true&width=800&height=70&lines=%5B+%23%23+RED+TEAM+%2F%2F+MWMD+%23%23+%5D;%3E%3E%3E+SYSTEM+ONLINE+%3C%3C%3C;%7C+GALAXY+OPERATOR+%7C;%3D+OFFENSIVE+MODE+%3D" alt="Glitch Header" />
   </h1>
-  
-  <!-- بدج‌های حرفه‌ای با رنگ نئونی -->
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0D0D1A&labelColor=9C27B0" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=0D0D1A&labelColor=00FFFF" />
-    <img src="https://img.shields.io/badge/Red%20Team-FF0000?style=for-the-badge&logo=hackaday&logoColor=white&color=0D0D1A&labelColor=9C27B0" />
-    <img src="https://img.shields.io/badge/SOC%20Tier%201-00FFFF?style=for-the-badge&logo=security&logoColor=black&color=0D0D1A&labelColor=00FFFF" />
-  </p>
   
 </div>
 
 ---
 
-## 🚀 **SYSTEM STATUS: ACTIVE**
+## 🌌 **`[ SYSTEM: ACTIVE // OPERATOR: MWMD ]`**
 
 ```python
 #!/usr/bin/python3
-# MWMD - Red Team Operator Profile
+# ═══════════════════════════════════════════════════════════
+#  MWMD - RED TEAM OPERATOR & OFFENSIVE DEVELOPER
+# ═══════════════════════════════════════════════════════════
 
-class MWMD:
+class GalaxyOperator:
     def __init__(self):
-        self.name = "MWMD"
-        self.role = "Red Team Operator & Developer"
-        self.languages = ["Python", "C"]
-        self.interests = ["Red Teaming", "Offensive Security", "SOC Analysis"]
-        self.status = "Always ready for challenges"
-    
-    def introduce(self):
-        return f"[ {self.name} ] >> Ready to breach and build"
+        self.callsign = "MWMD"
+        self.role = "Red Team Operator"
+        self.mission = "Offensive Security & Development"
+        self.arsenal = ["Python", "C", "Binary Exploitation", "Adversary Emulation"]
+        self.learning = "SOC Tier 1 → Blue Team perspective"
+        self.motto = "Build to break. Break to build better."
+        
+    def status(self):
+        return f"""
+        ╔══════════════════════════════════════╗
+        ║  [ {self.callsign} ]                    ║
+        ║  > STATUS: ACTIVE & READY            ║
+        ║  > MODE: OFFENSIVE                   ║
+        ║  > WAITING FOR: NEXT CHALLENGE       ║
+        ╚══════════════════════════════════════╝
+        """
 
-me = MWMD()
-print(me.introduce())
+me = GalaxyOperator()
+print(me.status())
